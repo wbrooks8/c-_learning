@@ -14,4 +14,6 @@ add_executable(Testing main.cpp
         LessonCF/lessoncf.cpp
         LessonCF/lessoncf.h
         Lesson12/lesson12.cpp
-        Lesson12/lesson12.h)
+        Lesson12/lesson12.h
+        Lesson13/lesson13.cpp
+        Lesson13/lesson13.h)
