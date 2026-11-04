@@ -32,8 +32,8 @@ int main() {
   int x{10};
   int y{4};
 
-  std::cout << (double)x / y << '\n'; // Avoid using C-style cast of x to double
-  std::cout << double(x) / y << '\n'; // Function style cast to double
+  std::cout << static_cast<double>(x) / y << '\n'; // Avoid using C-style cast of x to double
+  std::cout << static_cast<double>(x) / y << '\n'; // Function style cast to double
 
   char c{'a'};
   std::cout << static_cast<int>(c) << '\n';        // static cast is preferred.

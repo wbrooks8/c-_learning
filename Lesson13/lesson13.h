@@ -6,6 +6,7 @@
 #define TESTING_LESSON13_H
 
 namespace lesson13 {
+int runLesson();
 
 class lesson13 {};
 
