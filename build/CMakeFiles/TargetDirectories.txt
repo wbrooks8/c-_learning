@@ -1,0 +1,3 @@
+/home/kyle/C++/Testing/build/CMakeFiles/Testing.dir
+/home/kyle/C++/Testing/build/CMakeFiles/edit_cache.dir
+/home/kyle/C++/Testing/build/CMakeFiles/rebuild_cache.dir

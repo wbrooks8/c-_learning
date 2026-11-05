@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I/home/kyle/C++/Testing -I/home/kyle/C++/Testing/Lesson10 -I/home/kyle/C++/Testing/Lesson11 -I/home/kyle/C++/Testing/LessonCF -I/home/kyle/C++/Testing/Lesson12 -I/home/kyle/C++/Testing/Lesson13 -I/home/kyle/C++/Testing/Lesson14 -I/home/kyle/C++/Testing/Lesson15 -I/home/kyle/C++/Testing/Constants
 
 CXX_FLAGS = -g -std=gnu++20
 

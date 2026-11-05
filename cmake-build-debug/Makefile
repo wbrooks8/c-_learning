@@ -249,6 +249,30 @@ Lesson14/lesson14.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Testing.dir/build.make CMakeFiles/Testing.dir/Lesson14/lesson14.cpp.s
 .PHONY : Lesson14/lesson14.cpp.s
 
+Lesson15/lesson15.o: Lesson15/lesson15.cpp.o
+.PHONY : Lesson15/lesson15.o
+
+# target to build an object file
+Lesson15/lesson15.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Testing.dir/build.make CMakeFiles/Testing.dir/Lesson15/lesson15.cpp.o
+.PHONY : Lesson15/lesson15.cpp.o
+
+Lesson15/lesson15.i: Lesson15/lesson15.cpp.i
+.PHONY : Lesson15/lesson15.i
+
+# target to preprocess a source file
+Lesson15/lesson15.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Testing.dir/build.make CMakeFiles/Testing.dir/Lesson15/lesson15.cpp.i
+.PHONY : Lesson15/lesson15.cpp.i
+
+Lesson15/lesson15.s: Lesson15/lesson15.cpp.s
+.PHONY : Lesson15/lesson15.s
+
+# target to generate assembly for a file
+Lesson15/lesson15.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Testing.dir/build.make CMakeFiles/Testing.dir/Lesson15/lesson15.cpp.s
+.PHONY : Lesson15/lesson15.cpp.s
+
 LessonCF/lessoncf.o: LessonCF/lessoncf.cpp.o
 .PHONY : LessonCF/lessoncf.o
 
@@ -321,6 +345,9 @@ help:
 	@echo "... Lesson14/lesson14.o"
 	@echo "... Lesson14/lesson14.i"
 	@echo "... Lesson14/lesson14.s"
+	@echo "... Lesson15/lesson15.o"
+	@echo "... Lesson15/lesson15.i"
+	@echo "... Lesson15/lesson15.s"
 	@echo "... LessonCF/lessoncf.o"
 	@echo "... LessonCF/lessoncf.i"
 	@echo "... LessonCF/lessoncf.s"

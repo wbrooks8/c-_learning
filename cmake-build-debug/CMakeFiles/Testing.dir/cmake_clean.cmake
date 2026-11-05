@@ -10,6 +10,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Testing.dir/Lesson13/lesson13.cpp.o.d"
   "CMakeFiles/Testing.dir/Lesson14/lesson14.cpp.o"
   "CMakeFiles/Testing.dir/Lesson14/lesson14.cpp.o.d"
+  "CMakeFiles/Testing.dir/Lesson15/lesson15.cpp.o"
+  "CMakeFiles/Testing.dir/Lesson15/lesson15.cpp.o.d"
   "CMakeFiles/Testing.dir/LessonCF/lessoncf.cpp.o"
   "CMakeFiles/Testing.dir/LessonCF/lessoncf.cpp.o.d"
   "CMakeFiles/Testing.dir/main.cpp.o"

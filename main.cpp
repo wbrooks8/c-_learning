@@ -2,6 +2,7 @@
 #include "Lesson13/lesson13.h"
 #include "Lesson14/lesson14.h"
 #include "LessonCF/lessoncf.h"
+#include "lesson15.h"
 
 #include <iostream>
 #include <ostream>
@@ -25,15 +26,10 @@
 
 
 int main() {
-  // lesson10::main();
-  // lesson11::main();
-  // lessoncf::runLesson();
 
-  // lesson12::runLesson();
+  // lesson14::runLesson();
 
-  // lesson13::runLesson();
-  //
-  lesson14::runLesson();
-  // std::cout << isValid("){") << std::endl;
+  lesson15::runLesson();
+
   return 0;
 }

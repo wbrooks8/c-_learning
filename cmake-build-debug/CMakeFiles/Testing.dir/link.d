@@ -9,6 +9,7 @@ Testing: \
   CMakeFiles/Testing.dir/Lesson12/lesson12.cpp.o \
   CMakeFiles/Testing.dir/Lesson13/lesson13.cpp.o \
   CMakeFiles/Testing.dir/Lesson14/lesson14.cpp.o \
+  CMakeFiles/Testing.dir/Lesson15/lesson15.cpp.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/libstdc++.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libm.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libm.so \
@@ -60,6 +61,8 @@ CMakeFiles/Testing.dir/Lesson12/lesson12.cpp.o:
 CMakeFiles/Testing.dir/Lesson13/lesson13.cpp.o:
 
 CMakeFiles/Testing.dir/Lesson14/lesson14.cpp.o:
+
+CMakeFiles/Testing.dir/Lesson15/lesson15.cpp.o:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/16/libstdc++.so:
 
