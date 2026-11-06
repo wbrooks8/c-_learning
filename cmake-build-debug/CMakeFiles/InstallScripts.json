@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"/home/kyle/C++/Testing/cmake-build-debug/cmake_install.cmake"
+		"C:/Users/mymus/Documents/Code/c-_learning/cmake-build-debug/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

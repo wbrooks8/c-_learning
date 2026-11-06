@@ -16,6 +16,8 @@ add_executable(Testing
     Lesson15/lesson15.cpp
     Constants/constants.h
     Random.h
+        Lesson15/Date.cpp
+        Lesson15/Date.h
 )
 
 # Set include directories for headers
