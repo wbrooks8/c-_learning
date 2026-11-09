@@ -13,6 +13,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Testing.dir/Lesson15/Date.cpp.obj.d"
   "CMakeFiles/Testing.dir/Lesson15/lesson15.cpp.obj"
   "CMakeFiles/Testing.dir/Lesson15/lesson15.cpp.obj.d"
+  "CMakeFiles/Testing.dir/Lesson16/lesson16.cpp.obj"
+  "CMakeFiles/Testing.dir/Lesson16/lesson16.cpp.obj.d"
   "CMakeFiles/Testing.dir/LessonCF/lessoncf.cpp.obj"
   "CMakeFiles/Testing.dir/LessonCF/lessoncf.cpp.obj.d"
   "CMakeFiles/Testing.dir/main.cpp.obj"

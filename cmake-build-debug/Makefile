@@ -296,6 +296,30 @@ Lesson15/lesson15.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Testing.dir\build.make CMakeFiles/Testing.dir/Lesson15/lesson15.cpp.s
 .PHONY : Lesson15/lesson15.cpp.s
 
+Lesson16/lesson16.obj: Lesson16/lesson16.cpp.obj
+.PHONY : Lesson16/lesson16.obj
+
+# target to build an object file
+Lesson16/lesson16.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Testing.dir\build.make CMakeFiles/Testing.dir/Lesson16/lesson16.cpp.obj
+.PHONY : Lesson16/lesson16.cpp.obj
+
+Lesson16/lesson16.i: Lesson16/lesson16.cpp.i
+.PHONY : Lesson16/lesson16.i
+
+# target to preprocess a source file
+Lesson16/lesson16.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Testing.dir\build.make CMakeFiles/Testing.dir/Lesson16/lesson16.cpp.i
+.PHONY : Lesson16/lesson16.cpp.i
+
+Lesson16/lesson16.s: Lesson16/lesson16.cpp.s
+.PHONY : Lesson16/lesson16.s
+
+# target to generate assembly for a file
+Lesson16/lesson16.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Testing.dir\build.make CMakeFiles/Testing.dir/Lesson16/lesson16.cpp.s
+.PHONY : Lesson16/lesson16.cpp.s
+
 LessonCF/lessoncf.obj: LessonCF/lessoncf.cpp.obj
 .PHONY : LessonCF/lessoncf.obj
 
@@ -374,6 +398,9 @@ help:
 	@echo ... Lesson15/lesson15.obj
 	@echo ... Lesson15/lesson15.i
 	@echo ... Lesson15/lesson15.s
+	@echo ... Lesson16/lesson16.obj
+	@echo ... Lesson16/lesson16.i
+	@echo ... Lesson16/lesson16.s
 	@echo ... LessonCF/lessoncf.obj
 	@echo ... LessonCF/lessoncf.i
 	@echo ... LessonCF/lessoncf.s

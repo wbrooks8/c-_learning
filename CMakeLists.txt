@@ -18,6 +18,8 @@ add_executable(Testing
     Random.h
         Lesson15/Date.cpp
         Lesson15/Date.h
+        Lesson16/lesson16.cpp
+        Lesson16/lesson16.h
 )
 
 # Set include directories for headers

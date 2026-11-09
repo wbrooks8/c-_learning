@@ -153,7 +153,7 @@ int runLesson() {
     std::cout << "You chose: " << getColorName(color2) << '\n';
   else {
     std::cin.clear(); // reset the input stream to good
-    std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+    // std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
     std::cout << "Your pet was not valid\n";
   }
 

@@ -84,12 +84,12 @@ clean: CMakeFiles/Testing.dir/clean
 CMakeFiles/Testing.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Testing.dir\build.make CMakeFiles/Testing.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Testing.dir\build.make CMakeFiles/Testing.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\mymus\Documents\Code\c-_learning\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10 "Built target Testing"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\mymus\Documents\Code\c-_learning\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11 "Built target Testing"
 .PHONY : CMakeFiles/Testing.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Testing.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\mymus\Documents\Code\c-_learning\cmake-build-debug\CMakeFiles 10
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\mymus\Documents\Code\c-_learning\cmake-build-debug\CMakeFiles 11
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Testing.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\mymus\Documents\Code\c-_learning\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/Testing.dir/rule
@@ -101,7 +101,7 @@ Testing: CMakeFiles/Testing.dir/rule
 # codegen rule for target.
 CMakeFiles/Testing.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Testing.dir\build.make CMakeFiles/Testing.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\mymus\Documents\Code\c-_learning\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10 "Finished codegen for target Testing"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\mymus\Documents\Code\c-_learning\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11 "Finished codegen for target Testing"
 .PHONY : CMakeFiles/Testing.dir/codegen
 
 # clean rule for target.
