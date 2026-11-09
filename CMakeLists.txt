@@ -16,10 +16,10 @@ add_executable(Testing
     Lesson15/lesson15.cpp
     Constants/constants.h
     Random.h
-        Lesson15/Date.cpp
-        Lesson15/Date.h
-        Lesson16/lesson16.cpp
-        Lesson16/lesson16.h
+    Lesson15/Date.cpp
+    Lesson15/Date.h
+    Lesson16/lesson16.cpp
+    Lesson16/lesson16.h
 )
 
 # Set include directories for headers
@@ -34,3 +34,6 @@ target_include_directories(Testing PRIVATE
     ${CMAKE_CURRENT_SOURCE_DIR}/Lesson15
     ${CMAKE_CURRENT_SOURCE_DIR}/Constants
 )
+
+# Ensure C++ standard library linking
+target_link_libraries(Testing PRIVATE stdc++)

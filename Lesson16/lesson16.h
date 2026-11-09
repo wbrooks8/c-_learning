@@ -6,9 +6,10 @@
 #define TESTING_LESSON16_H
 
 namespace lesson16 {
-    void runLesson();
-    class lesson16 {
-    };
-} // lesson16
+void runLesson();
+void endOfChapter();
+void main();
+class lesson16 {};
+} // namespace lesson16
 
-#endif //TESTING_LESSON16_H
+#endif // TESTING_LESSON16_H

@@ -2,13 +2,7 @@
 
 #include <iostream>
 
-Date::Date(int year, int month, int day) // constructor definition
-    : m_year{year}
-      , m_month{month}
-      , m_day{day} {
-}
+// Constructor and print method are already defined inline in the header file
+// This file can be empty or contain other implementation details if needed
+// For now, it's left minimal since all functionality is in the header
 
-void Date::print() const // print function definition
-{
-    std::cout << "Date(" << m_year << ", " << m_month << ", " << m_day << ")\n";
-};

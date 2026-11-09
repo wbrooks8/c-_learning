@@ -1,7 +1,10 @@
 #ifndef DATE_H
 #define DATE_H
 
-class Date {
+#include <iostream>
+
+class Date
+{
 private:
     int m_year{};
     int m_month{};
@@ -16,5 +19,17 @@ public:
     int getMonth() const { return m_month; }
     int getDay() const { return m_day; }
 };
+
+inline Date::Date(int year, int month, int day) // now inline
+    : m_year{ year }
+, m_month{ month }
+, m_day{ day }
+{
+}
+
+inline void Date::print() const // now inline
+{
+    std::cout << "Date(" << m_year << ", " << m_month << ", " << m_day << ")\n";
+}
 
 #endif

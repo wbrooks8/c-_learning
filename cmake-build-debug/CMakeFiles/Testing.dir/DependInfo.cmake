@@ -8,16 +8,17 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/mymus/Documents/Code/c-_learning/Lesson10/lesson10.cpp" "CMakeFiles/Testing.dir/Lesson10/lesson10.cpp.obj" "gcc" "CMakeFiles/Testing.dir/Lesson10/lesson10.cpp.obj.d"
-  "C:/Users/mymus/Documents/Code/c-_learning/Lesson11/lesson11.cpp" "CMakeFiles/Testing.dir/Lesson11/lesson11.cpp.obj" "gcc" "CMakeFiles/Testing.dir/Lesson11/lesson11.cpp.obj.d"
-  "C:/Users/mymus/Documents/Code/c-_learning/Lesson12/lesson12.cpp" "CMakeFiles/Testing.dir/Lesson12/lesson12.cpp.obj" "gcc" "CMakeFiles/Testing.dir/Lesson12/lesson12.cpp.obj.d"
-  "C:/Users/mymus/Documents/Code/c-_learning/Lesson13/lesson13.cpp" "CMakeFiles/Testing.dir/Lesson13/lesson13.cpp.obj" "gcc" "CMakeFiles/Testing.dir/Lesson13/lesson13.cpp.obj.d"
-  "C:/Users/mymus/Documents/Code/c-_learning/Lesson14/lesson14.cpp" "CMakeFiles/Testing.dir/Lesson14/lesson14.cpp.obj" "gcc" "CMakeFiles/Testing.dir/Lesson14/lesson14.cpp.obj.d"
-  "C:/Users/mymus/Documents/Code/c-_learning/Lesson15/Date.cpp" "CMakeFiles/Testing.dir/Lesson15/Date.cpp.obj" "gcc" "CMakeFiles/Testing.dir/Lesson15/Date.cpp.obj.d"
-  "C:/Users/mymus/Documents/Code/c-_learning/Lesson15/lesson15.cpp" "CMakeFiles/Testing.dir/Lesson15/lesson15.cpp.obj" "gcc" "CMakeFiles/Testing.dir/Lesson15/lesson15.cpp.obj.d"
-  "C:/Users/mymus/Documents/Code/c-_learning/Lesson16/lesson16.cpp" "CMakeFiles/Testing.dir/Lesson16/lesson16.cpp.obj" "gcc" "CMakeFiles/Testing.dir/Lesson16/lesson16.cpp.obj.d"
-  "C:/Users/mymus/Documents/Code/c-_learning/LessonCF/lessoncf.cpp" "CMakeFiles/Testing.dir/LessonCF/lessoncf.cpp.obj" "gcc" "CMakeFiles/Testing.dir/LessonCF/lessoncf.cpp.obj.d"
-  "C:/Users/mymus/Documents/Code/c-_learning/main.cpp" "CMakeFiles/Testing.dir/main.cpp.obj" "gcc" "CMakeFiles/Testing.dir/main.cpp.obj.d"
+  "/home/kyle/C++/Testing/Lesson10/lesson10.cpp" "CMakeFiles/Testing.dir/Lesson10/lesson10.cpp.o" "gcc" "CMakeFiles/Testing.dir/Lesson10/lesson10.cpp.o.d"
+  "/home/kyle/C++/Testing/Lesson11/lesson11.cpp" "CMakeFiles/Testing.dir/Lesson11/lesson11.cpp.o" "gcc" "CMakeFiles/Testing.dir/Lesson11/lesson11.cpp.o.d"
+  "/home/kyle/C++/Testing/Lesson12/lesson12.cpp" "CMakeFiles/Testing.dir/Lesson12/lesson12.cpp.o" "gcc" "CMakeFiles/Testing.dir/Lesson12/lesson12.cpp.o.d"
+  "/home/kyle/C++/Testing/Lesson13/lesson13.cpp" "CMakeFiles/Testing.dir/Lesson13/lesson13.cpp.o" "gcc" "CMakeFiles/Testing.dir/Lesson13/lesson13.cpp.o.d"
+  "/home/kyle/C++/Testing/Lesson14/lesson14.cpp" "CMakeFiles/Testing.dir/Lesson14/lesson14.cpp.o" "gcc" "CMakeFiles/Testing.dir/Lesson14/lesson14.cpp.o.d"
+  "/home/kyle/C++/Testing/Lesson15/Date.cpp" "CMakeFiles/Testing.dir/Lesson15/Date.cpp.o" "gcc" "CMakeFiles/Testing.dir/Lesson15/Date.cpp.o.d"
+  "/home/kyle/C++/Testing/Lesson15/lesson15.cpp" "CMakeFiles/Testing.dir/Lesson15/lesson15.cpp.o" "gcc" "CMakeFiles/Testing.dir/Lesson15/lesson15.cpp.o.d"
+  "/home/kyle/C++/Testing/Lesson16/lesson16.cpp" "CMakeFiles/Testing.dir/Lesson16/lesson16.cpp.o" "gcc" "CMakeFiles/Testing.dir/Lesson16/lesson16.cpp.o.d"
+  "/home/kyle/C++/Testing/LessonCF/lessoncf.cpp" "CMakeFiles/Testing.dir/LessonCF/lessoncf.cpp.o" "gcc" "CMakeFiles/Testing.dir/LessonCF/lessoncf.cpp.o.d"
+  "/home/kyle/C++/Testing/main.cpp" "CMakeFiles/Testing.dir/main.cpp.o" "gcc" "CMakeFiles/Testing.dir/main.cpp.o.d"
+  "" "Testing" "gcc" "CMakeFiles/Testing.dir/link.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

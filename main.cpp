@@ -58,7 +58,8 @@ int main() {
     std::cout << num << " ";
   }
 
-  lesson16::runLesson();
+  lesson16::endOfChapter();
+  lesson16::main();
 
   return 0;
 }
