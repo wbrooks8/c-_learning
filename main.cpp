@@ -12,6 +12,7 @@
 #include <vector>
 
 #include "Lesson16/lesson16.h"
+#include "Lesson17/lesson17.h"
 
 // ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
 //   int l1 {0};
@@ -50,16 +51,8 @@ int main() {
 
   // lesson15::runLesson();
 
-  std::vector<int> nums = {1,3,2};
 
-  nextPermutation(nums);
-
-  for (const auto& num : nums) {
-    std::cout << num << " ";
-  }
-
-  lesson16::endOfChapter();
-  lesson16::main();
+  lesson17::runLesson();
 
   return 0;
 }
