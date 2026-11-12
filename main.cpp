@@ -13,6 +13,7 @@
 
 #include "Lesson16/lesson16.h"
 #include "Lesson17/lesson17.h"
+#include "Lesson17/fantasyStore.h"
 
 // ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
 //   int l1 {0};
@@ -52,7 +53,7 @@ int main() {
   // lesson15::runLesson();
 
 
-  lesson17::runLesson();
+  runStore();
 
   return 0;
 }
