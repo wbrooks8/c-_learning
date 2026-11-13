@@ -70,5 +70,11 @@
   "command": "/usr/bin/gcc -I/home/kyle/C++/Testing -I/home/kyle/C++/Testing/Lesson10 -I/home/kyle/C++/Testing/Lesson11 -I/home/kyle/C++/Testing/LessonCF -I/home/kyle/C++/Testing/Lesson12 -I/home/kyle/C++/Testing/Lesson13 -I/home/kyle/C++/Testing/Lesson14 -I/home/kyle/C++/Testing/Lesson15 -I/home/kyle/C++/Testing/Constants -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/Testing.dir/Lesson17/fantasyStore.cpp.o -c /home/kyle/C++/Testing/Lesson17/fantasyStore.cpp",
   "file": "/home/kyle/C++/Testing/Lesson17/fantasyStore.cpp",
   "output": "/home/kyle/C++/Testing/cmake-build-debug/CMakeFiles/Testing.dir/Lesson17/fantasyStore.cpp.o"
+},
+{
+  "directory": "/home/kyle/C++/Testing/cmake-build-debug",
+  "command": "/usr/bin/gcc -I/home/kyle/C++/Testing -I/home/kyle/C++/Testing/Lesson10 -I/home/kyle/C++/Testing/Lesson11 -I/home/kyle/C++/Testing/LessonCF -I/home/kyle/C++/Testing/Lesson12 -I/home/kyle/C++/Testing/Lesson13 -I/home/kyle/C++/Testing/Lesson14 -I/home/kyle/C++/Testing/Lesson15 -I/home/kyle/C++/Testing/Constants -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/Testing.dir/Lesson18/lesson18.cpp.o -c /home/kyle/C++/Testing/Lesson18/lesson18.cpp",
+  "file": "/home/kyle/C++/Testing/Lesson18/lesson18.cpp",
+  "output": "/home/kyle/C++/Testing/cmake-build-debug/CMakeFiles/Testing.dir/Lesson18/lesson18.cpp.o"
 }
 ]

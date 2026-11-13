@@ -24,6 +24,9 @@ add_executable(Testing
         Lesson17/lesson17.h
         Lesson17/fantasyStore.cpp
         Lesson17/fantasyStore.h
+        Lesson18/lesson18.cpp
+        Lesson18/lesson18.h
+        Timer.h
 )
 
 # Set include directories for headers

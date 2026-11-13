@@ -157,6 +157,15 @@ build CMakeFiles/Testing.dir/Lesson17/fantasyStore.cpp.o: CXX_COMPILER__Testing_
   OBJECT_FILE_DIR = CMakeFiles/Testing.dir/Lesson17
   TARGET_SUPPORT_DIR = CMakeFiles/Testing.dir
 
+build CMakeFiles/Testing.dir/Lesson18/lesson18.cpp.o: CXX_COMPILER__Testing_unscanned_Debug /home/kyle/C++/Testing/Lesson18/lesson18.cpp || cmake_object_order_depends_target_Testing
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles/Testing.dir/Lesson18/lesson18.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -I/home/kyle/C++/Testing -I/home/kyle/C++/Testing/Lesson10 -I/home/kyle/C++/Testing/Lesson11 -I/home/kyle/C++/Testing/LessonCF -I/home/kyle/C++/Testing/Lesson12 -I/home/kyle/C++/Testing/Lesson13 -I/home/kyle/C++/Testing/Lesson14 -I/home/kyle/C++/Testing/Lesson15 -I/home/kyle/C++/Testing/Constants
+  OBJECT_DIR = CMakeFiles/Testing.dir
+  OBJECT_FILE_DIR = CMakeFiles/Testing.dir/Lesson18
+  TARGET_SUPPORT_DIR = CMakeFiles/Testing.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Testing
@@ -165,7 +174,7 @@ build CMakeFiles/Testing.dir/Lesson17/fantasyStore.cpp.o: CXX_COMPILER__Testing_
 #############################################
 # Link the executable Testing
 
-build Testing: CXX_EXECUTABLE_LINKER__Testing_Debug CMakeFiles/Testing.dir/main.cpp.o CMakeFiles/Testing.dir/Lesson10/lesson10.cpp.o CMakeFiles/Testing.dir/Lesson11/lesson11.cpp.o CMakeFiles/Testing.dir/LessonCF/lessoncf.cpp.o CMakeFiles/Testing.dir/Lesson12/lesson12.cpp.o CMakeFiles/Testing.dir/Lesson13/lesson13.cpp.o CMakeFiles/Testing.dir/Lesson14/lesson14.cpp.o CMakeFiles/Testing.dir/Lesson15/lesson15.cpp.o CMakeFiles/Testing.dir/Lesson15/Date.cpp.o CMakeFiles/Testing.dir/Lesson16/lesson16.cpp.o CMakeFiles/Testing.dir/Lesson17/lesson17.cpp.o CMakeFiles/Testing.dir/Lesson17/fantasyStore.cpp.o
+build Testing: CXX_EXECUTABLE_LINKER__Testing_Debug CMakeFiles/Testing.dir/main.cpp.o CMakeFiles/Testing.dir/Lesson10/lesson10.cpp.o CMakeFiles/Testing.dir/Lesson11/lesson11.cpp.o CMakeFiles/Testing.dir/LessonCF/lessoncf.cpp.o CMakeFiles/Testing.dir/Lesson12/lesson12.cpp.o CMakeFiles/Testing.dir/Lesson13/lesson13.cpp.o CMakeFiles/Testing.dir/Lesson14/lesson14.cpp.o CMakeFiles/Testing.dir/Lesson15/lesson15.cpp.o CMakeFiles/Testing.dir/Lesson15/Date.cpp.o CMakeFiles/Testing.dir/Lesson16/lesson16.cpp.o CMakeFiles/Testing.dir/Lesson17/lesson17.cpp.o CMakeFiles/Testing.dir/Lesson17/fantasyStore.cpp.o CMakeFiles/Testing.dir/Lesson18/lesson18.cpp.o
   CONFIG = Debug
   DEP_FILE = CMakeFiles/Testing.dir/link.d
   FLAGS = -g
