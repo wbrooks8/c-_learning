@@ -320,6 +320,30 @@ Lesson16/lesson16.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Testing.dir\build.make CMakeFiles/Testing.dir/Lesson16/lesson16.cpp.s
 .PHONY : Lesson16/lesson16.cpp.s
 
+Lesson17/fantasyStore.obj: Lesson17/fantasyStore.cpp.obj
+.PHONY : Lesson17/fantasyStore.obj
+
+# target to build an object file
+Lesson17/fantasyStore.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Testing.dir\build.make CMakeFiles/Testing.dir/Lesson17/fantasyStore.cpp.obj
+.PHONY : Lesson17/fantasyStore.cpp.obj
+
+Lesson17/fantasyStore.i: Lesson17/fantasyStore.cpp.i
+.PHONY : Lesson17/fantasyStore.i
+
+# target to preprocess a source file
+Lesson17/fantasyStore.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Testing.dir\build.make CMakeFiles/Testing.dir/Lesson17/fantasyStore.cpp.i
+.PHONY : Lesson17/fantasyStore.cpp.i
+
+Lesson17/fantasyStore.s: Lesson17/fantasyStore.cpp.s
+.PHONY : Lesson17/fantasyStore.s
+
+# target to generate assembly for a file
+Lesson17/fantasyStore.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Testing.dir\build.make CMakeFiles/Testing.dir/Lesson17/fantasyStore.cpp.s
+.PHONY : Lesson17/fantasyStore.cpp.s
+
 Lesson17/lesson17.obj: Lesson17/lesson17.cpp.obj
 .PHONY : Lesson17/lesson17.obj
 
@@ -343,6 +367,54 @@ Lesson17/lesson17.s: Lesson17/lesson17.cpp.s
 Lesson17/lesson17.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Testing.dir\build.make CMakeFiles/Testing.dir/Lesson17/lesson17.cpp.s
 .PHONY : Lesson17/lesson17.cpp.s
+
+Lesson18/lesson18.obj: Lesson18/lesson18.cpp.obj
+.PHONY : Lesson18/lesson18.obj
+
+# target to build an object file
+Lesson18/lesson18.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Testing.dir\build.make CMakeFiles/Testing.dir/Lesson18/lesson18.cpp.obj
+.PHONY : Lesson18/lesson18.cpp.obj
+
+Lesson18/lesson18.i: Lesson18/lesson18.cpp.i
+.PHONY : Lesson18/lesson18.i
+
+# target to preprocess a source file
+Lesson18/lesson18.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Testing.dir\build.make CMakeFiles/Testing.dir/Lesson18/lesson18.cpp.i
+.PHONY : Lesson18/lesson18.cpp.i
+
+Lesson18/lesson18.s: Lesson18/lesson18.cpp.s
+.PHONY : Lesson18/lesson18.s
+
+# target to generate assembly for a file
+Lesson18/lesson18.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Testing.dir\build.make CMakeFiles/Testing.dir/Lesson18/lesson18.cpp.s
+.PHONY : Lesson18/lesson18.cpp.s
+
+Lesson19/lesson19.obj: Lesson19/lesson19.cpp.obj
+.PHONY : Lesson19/lesson19.obj
+
+# target to build an object file
+Lesson19/lesson19.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Testing.dir\build.make CMakeFiles/Testing.dir/Lesson19/lesson19.cpp.obj
+.PHONY : Lesson19/lesson19.cpp.obj
+
+Lesson19/lesson19.i: Lesson19/lesson19.cpp.i
+.PHONY : Lesson19/lesson19.i
+
+# target to preprocess a source file
+Lesson19/lesson19.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Testing.dir\build.make CMakeFiles/Testing.dir/Lesson19/lesson19.cpp.i
+.PHONY : Lesson19/lesson19.cpp.i
+
+Lesson19/lesson19.s: Lesson19/lesson19.cpp.s
+.PHONY : Lesson19/lesson19.s
+
+# target to generate assembly for a file
+Lesson19/lesson19.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Testing.dir\build.make CMakeFiles/Testing.dir/Lesson19/lesson19.cpp.s
+.PHONY : Lesson19/lesson19.cpp.s
 
 LessonCF/lessoncf.obj: LessonCF/lessoncf.cpp.obj
 .PHONY : LessonCF/lessoncf.obj
@@ -425,9 +497,18 @@ help:
 	@echo ... Lesson16/lesson16.obj
 	@echo ... Lesson16/lesson16.i
 	@echo ... Lesson16/lesson16.s
+	@echo ... Lesson17/fantasyStore.obj
+	@echo ... Lesson17/fantasyStore.i
+	@echo ... Lesson17/fantasyStore.s
 	@echo ... Lesson17/lesson17.obj
 	@echo ... Lesson17/lesson17.i
 	@echo ... Lesson17/lesson17.s
+	@echo ... Lesson18/lesson18.obj
+	@echo ... Lesson18/lesson18.i
+	@echo ... Lesson18/lesson18.s
+	@echo ... Lesson19/lesson19.obj
+	@echo ... Lesson19/lesson19.i
+	@echo ... Lesson19/lesson19.s
 	@echo ... LessonCF/lessoncf.obj
 	@echo ... LessonCF/lessoncf.i
 	@echo ... LessonCF/lessoncf.s

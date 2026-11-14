@@ -27,6 +27,8 @@ add_executable(Testing
         Lesson18/lesson18.cpp
         Lesson18/lesson18.h
         Timer.h
+        Lesson19/lesson19.cpp
+        Lesson19/lesson19.h
 )
 
 # Set include directories for headers
